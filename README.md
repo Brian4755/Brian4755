@@ -1,8 +1,8 @@
+<div align='center'>
+
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brian4755)](https://github.com/brian4755/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian4755)](https://github.com/brian4755/github-readme-stats)
 
-
-<div align="center">
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
